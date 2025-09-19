@@ -1,0 +1,769 @@
+electrónica analógica
+sistemas electrónicos
+aplicación móvil
+control difuso
+aplicación web
+diseño responsivo
+comunicación en red
+sistema web
+software de gestión
+cómputo en la nube
+sistemas distribuidos
+simulación de circuitos eléctricos
+programación web
+sistema de monitoreo
+realidad virtual
+bases de datos
+integración de datos
+análisis y visualización de datos
+desarrollo web
+plataforma digital
+modelado 3d
+ingeniería en sistemas computacionales
+programación estructurada
+programación orientada a objetos
+ciencias de la computación
+autómatas celulares
+sistemas digitales
+ingeniería de software
+aplicaciones móviles
+red neuronal
+aprendizaje supervisado
+clasificación multiclase
+segmentación de imágenes
+aprendizaje automático
+red neuronal artificial
+software de recomendación
+inteligencia artificial
+clasificador binario
+clasificador haar
+estructuras de datos
+estructura de datos
+análisis de algoritmos
+impresión 3d
+plataforma web
+geografía histórica
+web mapping
+internet de las cosas
+servicio web
+cliente a cliente
+comercio electrónico
+sistema distribuido
+realidad aumentada
+red neuronal profunda
+visión por computadora
+visión artificial
+reconocimiento de patrones
+servicios web
+servicio en la nube
+sistema de recomendación
+desarrollo de software
+gestión de proyectos
+sistema de seguridad
+lengua de señas mexicana
+reconocimiento de imágenes
+administración financiera
+ingeniería económica
+minería de datos
+visualización geográfica
+sistema embebido
+machine learning
+fundamentos de programación
+base de datos
+desarrollo de aplicaciones móviles
+sistema móvil android
+sistema web responsivo
+análisis de imágenes
+base de datos distribuida
+análisis de datos
+análisis de texto
+cadena de bloques
+desarrollo de videojuegos
+dispositivos android
+sistemas embebidos
+procesamiento de imágenes
+maquina de estados finitas
+aprendizaje adaptativo
+data mining
+seguridad web
+electrónica automotriz
+sistemas automotrices
+redes neuronales artificiales
+sistemas web
+álgebra relacional
+optimización heurística
+b2b
+negocio a negocio
+algoritmos cooperativos
+procesamiento digital de imágenes
+clasificador de patrones
+sistemas de información geográfica
+minería de datos espaciales
+desarrollo de aplicaciones web
+sistema móvil
+redes neuronales
+tratamiento digital de imágenes
+sistemas computacionales
+cifrado de imágenes
+analítica de datos
+simulación gráfica
+análisis vectorial
+visualización y animación tridimensional
+comunicaciones en red
+reconocimiento de expresiones faciales
+redes neuronales convolucionales
+aprendizaje profundo
+deep learning
+análisis de video en tiempo real
+seguridad biométrica
+ingeniaría de software
+minería de textos
+procesamiento de lenguaje natural
+sistemas de recomendación
+ingeniería de la computación
+geometría computacional
+desarrollo de sistemas inclusivos
+web scraping
+clasificación de texto
+sistemas recomendadores
+smart contracts
+graficación 3d
+minería de texto
+redes de computadoras
+simulador basado en juegos
+seguridad en sistemas operativos
+técnicas de transición
+algoritmo genético
+árbol de decisión
+clasificador estadístico
+tecnologías de la información y la comunicación
+análisis y diseño orientado a objetos
+phishing
+plataformas digitales
+seguridad informática
+ciberseguridad
+energías renovables
+crime analysis
+finanzas personales
+servicios de red
+criptosistema asimétrico
+criptosistema simétrico
+geolocalización y mapas
+tecnologías web
+reconocimiento de voz
+reconocimiento facial
+administración de servicios en red
+recuperación de datos
+big data
+business intelligence
+inteligencia del negocio
+calidad de software
+ingeniería de pruebas
+web semántica
+image analysis pattern recognition
+neural network
+ingeniería de software y sistemas
+patrones de diseño de software
+tecnologías de la información
+generación de tokens
+cloud computing
+procesos de negocio
+sistema android
+detección de malware
+sistema web basado en la nube
+web application development
+gestión empresarial
+procesamiento de datos
+interfaces hápticas
+sistemas complejos
+hackeo etico
+ingenieria social
+security analitycs
+análisis de imagen
+arquitectura de computadoras
+diseño de sistemas digitales
+eye tracking
+posicionamiento visual
+trazo de trayectoria visual
+estándar obdii
+normas automotrices sae
+cómputo afectivo
+almacenamiento masivo
+procesamiento distribuido en paralelo
+raspberry pi
+algoritmo follow the leader
+isquemia cerebral
+hemorragia cerebral
+acoplamiento molecular
+cómputo evolutivo
+machine learn neural network
+pruebas proyectivas gráficas htp
+perfil psicológico de personalidad
+teoría de la computación
+criptografia simétrica
+secreto compartido
+repositorio de archivos
+departamento de sistemas electrónicos
+monitoreo remoto
+algoritmos de acoplamiento
+metodología rup
+modelo matemático
+análisis de señales
+espectrometría infrarroja
+interpretación de datos
+figuras geométricas
+teorema de pitágoras
+operaciones con fracciones
+modelo predictivo
+densidad de tejidos
+tomografia axial computarizada
+sistema de bases de datos distribuidas sbdd
+sistema de gestión de bases de datos distribuido sgbdd
+bases de datos distribuidas bdd
+natural language process
+símbolos matemáticos
+reconocimiento de patrones cálculo aplicado ecuaciones diferenciales álgebra lineal
+redes neuronales profundas o convolucionales
+sistemas de información
+realidad extendida
+desastre natural
+tiempo real
+sistema computacional
+área de actividades culturales y deportivas
+validación de horas
+sistema de información
+materia electiva
+eeg electroencefalograma
+adquisición de datos
+ondas cerebrales
+algoritmos genéticos
+crime analysis system
+técnicas estadísticas
+deserción escolar
+regresión lineal
+procesamiento digital de señales
+procesamiento digital de voz
+máquinas de turing
+sistemas dinámicos
+almacenamiento y seguridad en la nube
+agregación de datos
+swarm intelligence
+control de desastres
+planeo de evacuación
+acondicionamiento de sensores
+desarrollo de algoritmos
+reglas gramaticales
+circuito electrónico generador de alarmas
+sistema sensor de presencia
+sistema dispensador de medicamentos dispositivos móviles
+aplicación android
+aplicación para dispositivo móvil
+algoritmos bioinspirados
+teoría de sistemas
+estadística descriptiva
+indicadores económicos
+algoritmos predictivos
+consumo de alcohol
+aprendizaje de máquina
+reglas ortográficas
+sistemas móviles
+análisis de redes sociales
+sistemas para el análisis del crimen
+sistemas de información geográficos
+hibridación in situ
+expresión de genes
+actividad neuronal
+ciclo circadiano
+apoyo a la toma de decisiones
+procesamiento digital de audio
+análisis espectral
+lectura de iris
+matemáticas discretas
+teoría de grafos
+aprendizaje máquina
+departamento de formación básica
+visualización de información
+bases de datos delictiva
+sistema de información web
+tumor invasivo
+crisis convulsivas
+lógica difusa
+material didáctico
+electrónica digital
+gestión escolar
+trámites en línea
+enfermedad cerebrovascular
+análisis fonológico
+repositorio semántico
+modelo de datos
+motor de inferencia
+reglas de producción
+arquitectura cliente servidor
+algoritmo evolutivo
+sistema de información geográfico
+lenguaje de programación c
+educación basada en web
+almacenamiento de objetos
+cloud storage
+openstack swift
+gestión de procesos del negocio
+ciclo de vida del software
+composición interacción
+educación secundaria
+índice de vegetación de diferencia normalizada
+tratamiento de imágenes
+nivel básico
+reglas ortográficas by v
+técnicas de enseñanza
+simulación de conducción
+modelos 3d
+teoría de comunicaciones y señales
+señales electroencefalográficas
+comunicación gsm
+selección de estrategias
+videojuego 2d
+uso de internet mediante redes sociales
+adultos mayores
+presión arterial
+gestión de la información
+información turística
+seguridad en aplicaciones web
+análisis de vulnerabilidades
+pruebas de penetración web
+revisión de código
+lenguaje r
+línea de tiempo
+cifrado simétrico
+cifrado asimétrico
+repositorio de configuraciones
+péndulo simple
+estilos de aprendizaje
+animación por computadora
+gráficos por computadora
+dicción de inglés
+bolsa de empleo
+perfil laboral
+oferta laboral
+optimización para rutas
+cultura mexica
+desarrollo tecnológico
+generación de gráficos por computadora
+comandos de voz
+iniciación musical
+maqueta e interactivo
+algoritmos de aprendizaje automático
+casos de uso
+nivel de calidad
+técnicas de diseño de pruebas
+instrumentación electrónica
+mobile communications y web service
+arquitectura edge
+physarum polycephalum
+evaluación financiera
+discapacidad visual
+traductor braille
+tableta electrónica
+seguimiento nutricional
+protocolos de comunicación
+seguridad en sistemas
+sistemas de comunicación automotriz
+bajo consumo
+administración de proyectos
+sistema de control distribuido
+evaluaciones físicas y sistema embebido
+series de tiempo
+cambio climático
+unidades de conversión de energía
+operación isla
+seguimiento de alumno
+ingesta metabólica
+padecimientos de salud
+cifrado aes
+pagos con tarjeta
+billetera móvil
+tipos de cambio
+sistema administrativo
+sistema de adquisición y procesamiento de datos
+contaminación ambiental
+enfermedades de columna vertebral
+gestión de base de datos
+monóxido de carbono
+interfaz web
+lenguaje natural
+aplicaciones criptográficas
+cifrado y descifrado
+evaluación sumativa
+memoria procedural y de hechos
+metodología kanban
+identificación de personas
+personas desaparecidas o extraviadas
+presuntos criminales
+artes y diseño
+herramienta de aprendizaje
+tarjetas bancarias
+competitividad de empresas
+algoritmia y programación estructurada
+canto de aves
+globos aerostáticos
+condiciones meteorológicas
+aprendizaje reforzado
+arquitectura offline
+gestionamiento de mapas
+sistema asistencial
+trabajo colaborativo
+baja potencia
+bajo consumo de energia
+ciudades inteligentes
+accidentes de tránsito
+análisis de características
+clasificación inteligente de patrones
+diseño digital y redes de computadoras
+procesamiento digital de información
+departamentos escolares
+recursos financieros
+conducción automotriz
+departamento de formación integral e institucional
+web service
+salud predictiva
+sistema de recomendaciones
+imágenes satelitales
+percepción remota
+cuerpos de agua
+clasificadores supervisados
+sistema de gestión de la información
+norma oficial mexicana nom 059ssa
+tecnología educativa
+procesamiento de lenguajes
+bolsa de valores
+educación financiera
+simulador financiero
+pruebas de software
+administración de pruebas
+pruebas de aceptación y de sistema
+técnica de anclaje
+redes neuronales convolucionales rnc
+programación y logística
+algoritmos de búsqueda
+inteligencia de negocios
+redes neuronales concurrentes
+visualización de gráficos
+zonas de riesgo
+fuentes de agua
+red social
+evaluación de riesgos
+análisis de componentes independientes
+procesamiento de señales
+control escolar
+international collegiate programming contest
+acm icpc
+teoría de choques
+filtro iir
+vuelo autónomo
+carga académica
+procesos académicosadministrativos
+patrimonio cultural
+lenguajes algorítmicos
+diseño de componentes
+lenguajes de programación
+linguística informatizada
+extracción automática en texto
+lingüística computacional
+api de android
+bases de datos dinámicas
+departamento de ciencias e ingeniería de la computación
+departamento de ingenieria en sistemas computacionales
+teoría computacional
+algoritmos de análisis de datos
+flujos de trabajo
+herramienta móvil
+software educativo
+trastorno del espectro autista
+cáncer de pulmón
+modelo de negocio
+administración de conjuntos habitacionales
+banda sensorial
+máquina de estados
+expresiones regulares
+recuperación de cartera
+software engineering for mobile devices
+sistemas embebidos tecnologías para la web
+agente inteligente
+multi agentes
+batería de test
+frontend web
+app móvil
+sistema computacional computer aided diagnosis
+academia de ingeniería de software image analysis
+pattern recognition
+patrones de diseño
+aplicación java
+precipitador electrostático
+programación informática
+trastornos del dormir
+sistema de información médica
+botón de pánico
+gestión de recorridos
+dispositivos inalámbricos
+arquitectura clienteservidor
+análisis de sentimientos
+necesidades sociales
+aprendizaje visual
+application development for mobile devices
+guerra de robots
+tarjeta fpga
+arquitectura soc
+sensor para medición de flujo
+servidor web
+detección de patrones
+sistema embebido basado en soc
+aplicaciones móviles bases de datos ingeniería de software inversión matemáticas financieras
+control energético
+teoría de nudos
+asistente móvil
+índices delictivos
+mapas de calor
+cifrado de archivos
+huella digital
+seguridad de la información
+dispositivo táctil
+habilidad cognitiva
+ejercicios de estimulación
+eventos exposiciones y conferencias
+teoria computacional
+aplicación en dispositivos móviles
+noticias políticas nacionales e internacionales
+transporte público
+análisis automatizado de malware
+introspección de máquina virtual
+área bajo la curva y regresión lineal aplicación móvil
+mesa de ayuda
+servicio de ayuda al usuario
+lenguaje de señas
+asistencia a discapacitados
+reconocimiento de formas
+habilidades cognitivas
+apoyo escolar
+sistema de gestión para el aprendizaje
+gestión de incidencias
+celda fotovoltaica
+instrumento de medición
+algoritmos de minería de datos
+reglas de asociación
+análisis sintáctico
+denuncia segura
+criptografía ligera
+hardware reconfigurable
+pruebas de luria
+tabletas res
+probabilidad y estadística
+educación media superior
+firma digital
+receta médica
+matemáticas básicas para niños
+suma y resta de fracciones
+aplicación en sistema embebido
+proxy multimedia
+servicio adaptativo de retransmisión de contenidos
+extracción de información
+similitud en texto
+verificación de noticias
+web crawler
+difusión digital de actividades y eventos
+terminal inteligente
+procesamiento del lenguaje natural
+deep learn
+cáncer de testículo
+revisión testicular
+prevención de cáncer
+academia de ingeniera de software
+it governance
+servicios médicos
+buscador web
+adquisición de datos natación
+mundo virtual inmersivo
+entorno virtual
+microexpresiones faciales
+instrumentación y microcontroladores
+sistema simulador
+lengua de señas
+sistema fotovoltaico
+iot
+casco de motociclista
+representación de documento inscripción
+motor de búsqueda
+decoración de interiores
+cerradura convencional
+tecnología wifi
+validación de documentos
+proceso de becas
+procesos administrativos
+análisis y reconocimiento de señales
+conectividad movil
+conectividad nfc
+natural language processing
+medicina homeopática
+estadística inferencial
+análisis de riesgos
+base de datos espacial
+procesamiento de señales de audio
+análisis de audio
+algoritmos para el reconocimiento de audio
+algoritmo de recomendación
+ingenieria de software
+computo evolutivo
+geometria computacional
+pln
+bot conversacional
+redes de sensores
+diseño de interfaces
+sistema recomendador
+reconocimiento de gestos
+interfaz gráfica
+sistema de navegación
+electrónica analógica y digital
+actividades culturales y deportivas
+aplicación para dispositivos móviles
+internet of things
+programación aplicaciones móviles
+modelo er
+modelo entidad relacion
+interpretación de señas
+análisis de regiones en imágenes
+reconocimiento de patrones para identificación de automóviles
+análisis y tratamiento de imágenes
+morfología matemática
+detección de rostros
+har classifier
+human activity recognition
+árboles de decisión y clasificador bayesiano
+electronica análogica
+análisis de costos
+lenguaje de modelado de sistemas
+identificación biométrica
+mitología mexicana
+desperdicio de alimentos
+cultura mexicana
+sistema de cómputo
+física mecánica
+predicción de estructura de proteínas
+inteligencia de enjambre
+plegamiento de proteínas
+monitoreo y adquisición de datos
+protocolo médico
+cuestionario dinámico
+recolección de datos
+servidor remoto
+experiencia de usuario
+blockchain pgp pki servidores de llave pública
+interpretación de documentos
+lenguaje de formato libre
+evaluación de currículums
+publicidad dirigida
+distorsión armónica total
+red eléctricas
+salud mental
+sistemas dinámicos discretos
+teoría del campo promedio
+espacio binario bidimensional autómatas
+criptografía simétrica
+comunicación lte
+ciencia de datos
+prototipo de aplicación
+plataforma móvil
+servicios de seguridad
+sistema de pagos
+análisis de fourier
+aprendizaje kinestésico
+sistemas operativos
+recommender system
+entorno de practica simulado
+sistemas de informacion
+análisis y procesamiento de imágenes
+realidad mixta
+sistema inmersivo
+cifrado de videos
+técnicas de inteligencia artificial
+sistema híbrido
+lenguaje de señas mexicana
+sistema predictivo
+aprendizaje lenguaje natural
+procesamiento automático
+circuitos lógicos combinatorios
+procesamiento de datos georeferenciados
+ambiente artificial
+comunicación wifi
+prueba de yerkes
+programación competitiva
+diseño de páginas web
+estándar midi
+programación visual
+programación basada en flujos de trabajo
+ingeniería de transporte
+ecuación de riccati
+ecuaciones diferenciales de segundo orden
+red de sensores inalámbricos
+programación gráfica
+problemas algorítmicos
+criptografía en hardware
+learning paradigms
+machine learn
+supervised learning
+máquinas de estado
+metodología ágil
+metodología scrum
+tomografias computarizadas
+diagnóstico asistido por computadora
+microrred eléctrica
+comunicación móvil
+señales cerebrales
+sensor eeg
+análisis de documentos
+aprendizaje no supervisado
+redes de computadora
+análisis de patrones
+procesamiento de señal de voz
+criptografía híbrida
+sistema descentralizado
+algoritmo de predicción
+sensor capacitivo
+sincronización paralela
+razonamiento automático
+lógica noaxiomática
+técnicas de inferencia
+álgebra computacional
+dispositivo electrónico
+fundamentos de sistemas electrónicos
+sistema empotrado
+sistema en chip
+sistema remoto
+microrred fotovoltaica
+servidor web embebido
+modelo relacional
+algoritmos computacionales
+algoritmos de clasificación
+reconocimiento óptico de caracteres
+imágenes digitales
+programación y algoritmia
+computación no convencional
+criptosistema biométrico
+comunicaciones de red
+análisis y diseño de algoritmos
+análisis predictivo
+cnn
+matemáticas avanzadas
+etiquetado de datos
+modelo basado en agentes
+cifrado y descifrado de información
+detección procesamiento de voz
+composición algorítmica
+computación cuántica
+física de partículas
+máquina virtual
+visión computarizada
+maquina de turing
+cadenas de markov
+cómputo de alto desempeño
+cómputo distribuido
+comunicaciones móviles
+procesamiento de voz
+clasificación de señales
